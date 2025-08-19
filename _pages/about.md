@@ -34,14 +34,14 @@ Huanhuan Peng, Xiaoye Miao, <b>Yicheng Fu</b>, Jinshan Zhang, Shuiguang Deng, Ji
 
 # Professional Services
 
-- Journal reviewer<br>
+- **Journal reviewer** <br>
   ACM Transactions on Knowledge Discovery from Data (TKDD)
   
 
 # Honors & Awards
 
-- National Scholarship, 2024.10
-- National Scholarship, 2022.10 
+- **National Scholarship**, 2024.10
+- **National Scholarship**, 2022.10 
 
 
 

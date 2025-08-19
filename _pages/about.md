@@ -27,7 +27,8 @@ Huanhuan Peng, Xiaoye Miao, <b>Yicheng Fu</b>, Jinshan Zhang, Shuiguang Deng, Ji
 
 # Research Intern
 
-- Yunqi Academy of Engineering, Hangzhou, China (Nov 2024 - Jan 2025), supervised by [Prof. Zhenhui Jessie Li](https://jessielzh.com/)
+- Yunqi Academy of Engineering, Hangzhou, China (Nov 2024 - Jan 2025)<br>
+  Supervised by [Prof. Zhenhui Jessie Li](https://jessielzh.com/)
 
 
 # Professional Services

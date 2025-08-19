@@ -16,32 +16,23 @@ My recent research interests include reinforcement learning and city intelligenc
 <b>Rasterizing the World with Scalable Data Computing</b> <br> 
 <i>Working paper</i>. <b>2025</b>.
 
-- Rasterizing the World with Scalable Data Computing
+<b>[On Scalable Query Pricing in Data Marketplaces](https://www.computer.org/csdl/proceedings-article/icde/2025/360300d140/26FZBuLmrGE)</b> <br> 
+Huanhuan Peng, Xiaoye Miao, <b>Yicheng Fu</b>, Jinshan Zhang, Shuiguang Deng, Jianwei Yin.
+<i>IEEE International Conference on Data Engineering</i>. <b>ICDE 2025</b>.
   
-  Working paper. 2025.
-  
-
-- [On Scalable Query Pricing in Data Marketplaces](https://www.computer.org/csdl/proceedings-article/icde/2025/360300d140/26FZBuLmrGE)
-
-  IEEE International Conference on Data Engineering (ICDE), 2025.
-
-  
-- [Online Query-based Data Pricing with Time-discounting Valuations](https://ieeexplore.ieee.org/document/10598119)
-
-  IEEE International Conference on Data Engineering (ICDE), 2024.
-
+<b>[Online Query-based Data Pricing with Time-discounting Valuations](https://ieeexplore.ieee.org/document/10598119)</b> <br> 
+<b>Yicheng Fu</b>, Xiaoye Miao, Huanhuan Peng, Chongning Na, Shuiguang Deng, Jianwei Yin.
+<i>IEEE International Conference on Data Engineering</i>. <b>ICDE 2024</b>.
 
 
 # Research Intern
 
-- Yunqi Academy of Engineering, Hangzhou, China (Nov 2024 - Jan 2025)
-
-  Supervised by [Prof. Zhenhui Jessie Li](https://jessielzh.com/)
+- Yunqi Academy of Engineering, Hangzhou, China (Nov 2024 - Jan 2025), supervised by [Prof. Zhenhui Jessie Li](https://jessielzh.com/)
 
 
 # Professional Services
-- Journal reviewer
 
+- Journal reviewer<br>
   ACM Transactions on Knowledge Discovery from Data (TKDD)
   
 

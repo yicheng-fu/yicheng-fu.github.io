@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a PhD student in the DIVER Lab at the College of Computer Science and Technology, Zhejiang University, fortunate to work with [Prof. Jinfei Liu](https://person.zju.edu.cn/jinfeiliu). 
-My recent research interests include reinforcement learning and city intelligence. I also did some research on data pricing before.
+My recent research interests include reinforcement learning. I also did some research on data pricing before.
 
 
 # Publications
